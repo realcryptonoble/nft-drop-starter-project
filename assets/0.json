@@ -1,0 +1,19 @@
+{
+    "name": "Jordan_Belfort",
+    "symbol": "WOLF",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "CNvoKZxHHi9wbdhL1yZudjZ2RtHZLaVYHaRnCdwgK4Yp",
+          "share": 100
+        }
+      ]
+    }
+  }

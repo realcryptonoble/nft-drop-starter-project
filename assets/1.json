@@ -1,0 +1,19 @@
+{
+    "name": "Patrick_Bateman",
+    "symbol": "PSHYCO",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "CNvoKZxHHi9wbdhL1yZudjZ2RtHZLaVYHaRnCdwgK4Yp",
+          "share": 100
+        }
+      ]
+    }
+  }

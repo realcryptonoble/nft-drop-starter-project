@@ -1,0 +1,19 @@
+{
+    "name": "Tyler_Durden",
+    "symbol": "FIGHT",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "CNvoKZxHHi9wbdhL1yZudjZ2RtHZLaVYHaRnCdwgK4Yp",
+          "share": 100
+        }
+      ]
+    }
+  }
